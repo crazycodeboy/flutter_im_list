@@ -1,4 +1,4 @@
-library chat_message;
+library flutter_im_list;
 
 /// A Calculator.
 class Calculator {

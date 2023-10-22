@@ -1,7 +1,7 @@
-import 'package:chat_message/core/chat_controller.dart';
-import 'package:chat_message/models/message_model.dart';
-import 'package:chat_message/widget/chat_list_widget.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_im_list/core/chat_controller.dart';
+import 'package:flutter_im_list/models/message_model.dart';
+import 'package:flutter_im_list/widget/chat_list_widget.dart';
 
 void main() => runApp(const MyApp());
 

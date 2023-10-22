@@ -1,12 +1,12 @@
-# `flutter_chat_list`
+# `flutter_im_list`
 
-[ ![English](https://img.shields.io/badge/English-feb252.svg)](https://github.com/crazycodeboy/flutter_chat_list)
-[![Download](https://img.shields.io/badge/Download-ff69b4.svg) ](https://pub.dartlang.org/packages/flutter_chat_list)
-[ ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/crazycodeboy/flutter_chat_list/pulls)
-[ ![flutter_chat_list release](https://img.shields.io/github/release/crazycodeboy/flutter_chat_list.svg?maxAge=2592000?style=flat-square)](https://github.com/crazycodeboy/flutter_chat_list/releases)
-[![License MIT](http://img.shields.io/badge/license-MIT-orange.svg?style=flat)](https://raw.githubusercontent.com/crazycodeboy/flutter_chat_list/master/LICENSE)
+[ ![English](https://img.shields.io/badge/English-feb252.svg)](https://github.com/crazycodeboy/flutter_im_list)
+[![Download](https://img.shields.io/badge/Download-ff69b4.svg) ](https://pub.dartlang.org/packages/flutter_im_list)
+[ ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/crazycodeboy/flutter_im_list/pulls)
+[ ![flutter_im_list release](https://img.shields.io/github/release/crazycodeboy/flutter_im_list.svg?maxAge=2592000?style=flat-square)](https://github.com/crazycodeboy/flutter_im_list/releases)
+[![License MIT](http://img.shields.io/badge/license-MIT-orange.svg?style=flat)](https://raw.githubusercontent.com/crazycodeboy/flutter_im_list/master/LICENSE)
 
-[`flutter_chat_list`](https://github.com/crazycodeboy/flutter_chat_list)是一款高性能、轻量级的Flutter聊天列表插件。可以帮助你快速创建出类微信的聊天列表的效果。
+[`flutter_im_list`](https://github.com/crazycodeboy/flutter_im_list)是一款高性能、轻量级的Flutter聊天列表插件。可以帮助你快速创建出类微信的聊天列表的效果。
 
 ## 目录
 
@@ -18,12 +18,12 @@
 
 ## 预览图
 
-整体 | 长按 | 输入中 | 动图
----|---|---|---
-![flutter_chat_list](https://raw.githubusercontent.com/crazycodeboy/flutter_chat_list/master/example/Screenshots/1.pic.jpg)| ![flutter_chat_list](https://raw.githubusercontent.com/crazycodeboy/flutter_chat_list/master/example/Screenshots/2.pic.jpg)| ![flutter_chat_list](https://raw.githubusercontent.com/crazycodeboy/flutter_chat_list/master/example/Screenshots/4.pic.jpg)| ![flutter_chat_list](https://raw.githubusercontent.com/crazycodeboy/flutter_chat_list/master/example/Screenshots/4.gif)
+整体 | 长按 | 输入中                                                                                                                         | 动图
+---|---|-----------------------------------------------------------------------------------------------------------------------------|---
+![flutter_im_list](https://raw.githubusercontent.com/crazycodeboy/flutter_im_list/master/example/Screenshots/1.pic.jpg)| ![flutter_im_list](https://raw.githubusercontent.com/crazycodeboy/flutter_im_list/master/example/Screenshots/2.pic.jpg)| ![flutter_im_list](https://raw.githubusercontent.com/crazycodeboy/flutter_im_list/master/example/Screenshots/3.pic.jpg) | ![flutter_im_list](https://raw.githubusercontent.com/crazycodeboy/flutter_im_list/master/example/Screenshots/4.gif)
 
 ## 示例
-* [Examples](https://github.com/crazycodeboy/flutter_chat_list/tree/master/example)
+* [Examples](https://github.com/crazycodeboy/flutter_im_list/tree/master/example)
 
 ## [视频教程](https://coding.imooc.com/class/672.html)
 欢迎通过[视频教程](https://coding.imooc.com/class/672.html)学习交流。
@@ -35,7 +35,7 @@
 在项目根目录下运行：
 
 ```bash
-flutter pub add flutter_chat_list
+flutter pub add flutter_im_list
 ```
 ### 第二步：初始化ChatController
 
@@ -164,10 +164,10 @@ class ChatList extends StatefulWidget {
 
 ## Contribution
 
-欢迎在[issues](https://github.com/crazycodeboy/flutter_chat_list/issues)上报告问题。请附上bug截图和代码片段。解决问题的最快方法是在示例中重现它。
+欢迎在[issues](https://github.com/crazycodeboy/flutter_im_list/issues)上报告问题。请附上bug截图和代码片段。解决问题的最快方法是在示例中重现它。
 
 欢迎提交拉取请求。如果您想更改API或执行重大操作，最好先创建一个问题并进行讨论。
 
 ---
 
-**[MIT Licensed](https://github.com/crazycodeboy/flutter_chat_list/blob/master/LICENSE)**
+**[MIT Licensed](https://github.com/crazycodeboy/flutter_im_list/blob/master/LICENSE)**

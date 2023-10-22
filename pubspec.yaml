@@ -1,7 +1,7 @@
-name: chat_message
-description: A new Flutter package project.
-version: 0.0.1
-homepage:
+name: flutter_im_list
+description: A high-performance, lightweight Flutter chat list package. It can help you quickly create a WeChat-like chat list effect.
+version: 1.0.0
+homepage: https://github.com/crazycodeboy/flutter_im_list
 
 environment:
   sdk: '>=3.0.0 <4.0.0'

@@ -1,12 +1,12 @@
-# `flutter_chat_list`
+# `flutter_im_list`
 
-[ ![语言 中文](https://img.shields.io/badge/语言-中文-feb252.svg)](https://github.com/crazycodeboy/flutter_chat_list/blob/master/README.zh.md)
-[![Download](https://img.shields.io/badge/Download-ff69b4.svg) ](https://pub.dartlang.org/packages/flutter_chat_list)
-[ ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/crazycodeboy/flutter_chat_list/pulls)
-[ ![flutter_chat_list release](https://img.shields.io/github/release/crazycodeboy/flutter_chat_list.svg?maxAge=2592000?style=flat-square)](https://github.com/crazycodeboy/flutter_chat_list/releases)
-[![License MIT](http://img.shields.io/badge/license-MIT-orange.svg?style=flat)](https://raw.githubusercontent.com/crazycodeboy/flutter_chat_list/master/LICENSE)
+[ ![语言 中文](https://img.shields.io/badge/语言-中文-feb252.svg)](https://github.com/crazycodeboy/flutter_im_list/blob/master/README.cn.md)
+[![Download](https://img.shields.io/badge/Download-ff69b4.svg) ](https://pub.dartlang.org/packages/flutter_im_list)
+[ ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/crazycodeboy/flutter_im_list/pulls)
+[ ![flutter_im_list release](https://img.shields.io/github/release/crazycodeboy/flutter_im_list.svg?maxAge=2592000?style=flat-square)](https://github.com/crazycodeboy/flutter_im_list/releases)
+[![License MIT](http://img.shields.io/badge/license-MIT-orange.svg?style=flat)](https://raw.githubusercontent.com/crazycodeboy/flutter_im_list/master/LICENSE)
 
-[`flutter_chat_list`](https://github.com/crazycodeboy/flutter_chat_list) is a high-performance, lightweight Flutter chat list package. It can help you quickly create a WeChat-like chat list effect.
+[`flutter_im_list`](https://github.com/crazycodeboy/flutter_im_list) is a high-performance, lightweight Flutter chat list package. It can help you quickly create a WeChat-like chat list effect.
 
 ## Content
 
@@ -19,13 +19,13 @@
 
 ## Screenshots
 
-Overall | Long press | Inputting | GIF
----|---|---|---
-![flutter_chat_list](https://raw.githubusercontent.com/crazycodeboy/flutter_chat_list/master/example/Screenshots/1.pic.jpg)| ![flutter_chat_list](https://raw.githubusercontent.com/crazycodeboy/flutter_chat_list/master/example/Screenshots/2.pic.jpg)| ![flutter_chat_list](https://raw.githubusercontent.com/crazycodeboy/flutter_chat_list/master/example/Screenshots/4.pic.jpg)| ![flutter_chat_list](https://raw.githubusercontent.com/crazycodeboy/flutter_chat_list/master/example/Screenshots/4.gif)
+Overall | Long press | Inputting                                                                                                                   | GIF
+---|---|-----------------------------------------------------------------------------------------------------------------------------|---
+![flutter_im_list](https://raw.githubusercontent.com/crazycodeboy/flutter_im_list/master/example/Screenshots/1.pic.jpg)| ![flutter_im_list](https://raw.githubusercontent.com/crazycodeboy/flutter_im_list/master/example/Screenshots/2.pic.jpg)| ![flutter_im_list](https://raw.githubusercontent.com/crazycodeboy/flutter_im_list/master/example/Screenshots/3.pic.jpg) | ![flutter_im_list](https://raw.githubusercontent.com/crazycodeboy/flutter_im_list/master/example/Screenshots/4.gif)
 
 ## Examples
 
-* [Examples](https://github.com/crazycodeboy/flutter_chat_list/tree/master/example)
+* [Examples](https://github.com/crazycodeboy/flutter_im_list/tree/master/example)
 
 ## [Video tutorial](https://coding.imooc.com/class/672.html)
 Welcome to learn and communicate through [Video tutorial](https://coding.imooc.com/class/672.html).
@@ -37,7 +37,7 @@ Welcome to learn and communicate through [Video tutorial](https://coding.imooc.c
 Run in the project root directory:
 
 ```bash
-flutter pub add flutter_chat_list
+flutter pub add flutter_im_list
 ```
 ### Step 2: Initialize ChatController
 
@@ -177,4 +177,4 @@ issue and discuss it first.
 
 ---
 
-**[MIT Licensed](https://github.com/crazycodeboy/flutter_chat_list/blob/master/LICENSE)**
+**[MIT Licensed](https://github.com/crazycodeboy/flutter_im_list/blob/master/LICENSE)**
